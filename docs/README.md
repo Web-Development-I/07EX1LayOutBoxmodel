@@ -33,9 +33,9 @@ Te bekomen resultaat:
 
 ![scherm1](images/02_box_model_01_b.png)
 
-- Stel nu de breedte van *box1* in op 640 pixels en maak vervolgens het browservenster smaller dan 640 pixels.
+- Stel nu de breedte van *box1* in op 640 pixels en maak vervolgens met je muis het browservenster smaller dan 640 pixels.
   
-- Merk op dat als je jouw browservenster versmalt, de breedte en de hoogte van *box2* automatisch wordt aangepast, maar dat dit niet het geval is voor *box1*, waar we de breedte vast ingesteld hebben.
+  Merk op dat als je jouw browservenster met je muis versmalt, de breedte en de hoogte van *box2* automatisch worden aangepast, maar dat dit niet het geval is voor *box1*, waar we via CSS de breedte vast ingesteld hebben.
   
 - Voorzie beide boxes van 20 pixels witruimte tussen de rand en de tekst. 
   
